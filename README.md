@@ -3,4 +3,4 @@ To address the problem of low power prediction accuracy and limited adaptability
 
 
 
-<img width="583" height="351" alt="image" src="https://github.com/user-attachments/assets/b27dac8c-4259-49d0-9059-e3a71532b304" />
+                            <img width="583" height="351" alt="image" src="https://github.com/user-attachments/assets/b27dac8c-4259-49d0-9059-e3a71532b304" />
